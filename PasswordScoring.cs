@@ -9,7 +9,7 @@ namespace Zxcvbn
     /// <summary>
     /// Some useful shared functions used for evaluating passwords
     /// </summary>
-    static class PasswordScoring
+    public static class PasswordScoring
     {
         public const string StartUpper = "^[A-Z][^A-Z]+$";
 
