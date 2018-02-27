@@ -11,7 +11,7 @@ namespace Zxcvbn
     /// <summary>
     /// A few useful extension methods used through the Zxcvbn project
     /// </summary>
-    public static class Utility
+    static class Utility
     {
         /// <summary>
         /// Convert a number of seconds into a human readable form. Rounds up.
